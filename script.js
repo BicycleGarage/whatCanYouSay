@@ -40,8 +40,8 @@ function loadQuestion() {
 
     const currentQuestion = questions[currentQuestionIndex];
 
-    mainTitle.textContent = "干员设定小测试"; // 示例主标题，可根据需要更改
-    subTitle.textContent = "（飞舞制造机）"; // 示例副标题，可根据需要更改
+    mainTitle.textContent = "你穿越到了泰拉"; // 示例主标题，可根据需要更改
+    subTitle.textContent = "WhatCanYouSay（man！）"; // 示例副标题，可根据需要更改
     questionContainer.textContent = currentQuestion.question;
     optionsContainer.innerHTML = '';
     nextButton.style.visibility = 'hidden'; // 确保在加载问题时隐藏按钮
