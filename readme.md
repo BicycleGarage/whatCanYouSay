@@ -1,5 +1,5 @@
 # arknights-whoAreYou-ridiculousEdition
-生草版本的干员设定测试，别称“飞舞制造机”
+某不可考证网友发的沙雕gif，制成的web版
 
 
 ## 帮助提升（分支提交规则）
