@@ -180,7 +180,7 @@
     }
     ],
   "switchTime": {
-    "min": 20,
+    "min": 50,
     "max": 150
   },
   "randomSwitch": true
